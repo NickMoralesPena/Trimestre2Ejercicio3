@@ -9,7 +9,8 @@ import java.util.Scanner;
 public class Trimestre2Ejercicio3Colocarprimos {
 
     /**
-     * @param args the command line arguments
+     * @param numero
+     * @return 
      */
     public static Boolean esPrimo(int numero) {
         Boolean esPrimoActual = true;
